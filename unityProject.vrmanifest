@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.hackxxxxxx.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\nisha\\OneDrive\\Desktop\\github\\HACKXXXXXX\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "HACKXXXXXX [Testing]"
+        }
+      }
+    }
+  ]
+}

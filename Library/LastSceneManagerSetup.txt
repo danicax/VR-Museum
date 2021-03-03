@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Scenes/VRScene.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/MuseumScene.unity
+  isLoaded: 1
+  isActive: 0
